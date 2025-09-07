@@ -40,3 +40,25 @@ Here are some ideas to get you started:
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## Youtupe Vieos
+<p align="center">
+  <a href="https://youtu.be/GbqJ8KNPJoA?si=37mxriNpLnGPE3Xc" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=GbqJ8KNPJoA&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 1">
+  </a>
+  <a href="https://youtu.be/zNJF9oj1gWc?si=9SC6K6Xr9FxK3eBO" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=zNJF9oj1gWc&title=Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 2">
+  </a>
+  <a href="https://youtu.be/Z7D8ioMP1jU?si=zjTLXilX7-k_uQvm" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=Z7D8ioMP1jU&title=Video+3&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 3">
+  </a>
+  <a href="https://youtu.be/jtp6l-9-z0k?si=RBY3Chh4UV07VjZd" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=jtp6l-9-z0k&title=Video+4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 4">
+  </a>
+    <a href="https://youtu.be/YYoVIKskaqM?si=Yw7BX8wusv78ydsI" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=YYoVIKskaqM&title=Video&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="YouTube Video">
+  </a>
+  <a href="https://youtu.be/vDXwKWigDTg?si=um9aH1oaJ4wl89l4" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=vDXwKWigDTg&title=Video+5&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 5">
+  </a>
+</p>
+
+
