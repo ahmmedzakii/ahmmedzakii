@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ahmmedzakii_/?utm_source=ig_web_button_share_sheet)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AhmeedZaki) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmmedzakii&show_icons=true&theme=radical)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmmedzakii&show_icons=true&theme=radical)-->
 
 ## 🧰 Languages and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-## Youtupe Videos
+## Youtube Videos
 <p align="center">
   <a href="https://youtu.be/GbqJ8KNPJoA?si=37mxriNpLnGPE3Xc" target="_blank">
     <img src="https://ytcards.demolab.com/?id=GbqJ8KNPJoA&title=Convert+boolean+values+to+strings+'Yes'+or+'No'&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="1- Convert boolean values to strings 'Yes' or 'No'">
