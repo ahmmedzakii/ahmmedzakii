@@ -8,9 +8,9 @@
 Here are some ideas to get you started:
 -->
 
-- 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech <br/>
-- 👨‍🎓 Studied [Computer Science](https://www.nu.edu.eg/) at the Nile Universty, Cairo Egypt<br/>
-- 🧩 Achieving milestones in problem-solving with a deep understanding of data structures and algorithms.
+- 👩🏻‍💻 <b>Software Engineer</b> sharing about my journey and learnings in tech <br/>
+- 👨‍🎓 Studied <b>Computer Science</b> at the [Nile Universty](https://www.nu.edu.eg/), Cairo Egypt<br/>
+- 🧩 Achieving milestones in <b>problem-solving</b> with a deep understanding of <b>Data structures and Algorithms</b>.
 - 🚀 Focused on building full-stack web applications with clean and scalable code <br/>
 - 🎯 Goal: Expanding my expertise in modern web technologies and contributing to impactful projects <br/>
 
