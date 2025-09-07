@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 ## Youtupe Vieos
 <p align="center">
   <a href="https://youtu.be/GbqJ8KNPJoA?si=37mxriNpLnGPE3Xc" target="_blank">
-    <img src="https://ytcards.demolab.com/?id=GbqJ8KNPJoA&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 1">
+    <img src="https://ytcards.demolab.com/?id=GbqJ8KNPJoA&title=Video+1&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="1- Convert boolean values to strings 'Yes' or 'No'">
   </a>
   <a href="https://youtu.be/zNJF9oj1gWc?si=9SC6K6Xr9FxK3eBO" target="_blank">
     <img src="https://ytcards.demolab.com/?id=zNJF9oj1gWc&title=Video+2&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=300&border_radius=10" alt="Video 2">
